@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MIMER17/music-player.git/static/css/main.d2759aec.chunk.css",
+    "main.js": "/MIMER17/music-player.git/static/js/main.4ab3208a.chunk.js",
+    "main.js.map": "/MIMER17/music-player.git/static/js/main.4ab3208a.chunk.js.map",
+    "runtime-main.js": "/MIMER17/music-player.git/static/js/runtime-main.363c880f.js",
+    "runtime-main.js.map": "/MIMER17/music-player.git/static/js/runtime-main.363c880f.js.map",
+    "static/js/2.08a329a7.chunk.js": "/MIMER17/music-player.git/static/js/2.08a329a7.chunk.js",
+    "static/js/2.08a329a7.chunk.js.map": "/MIMER17/music-player.git/static/js/2.08a329a7.chunk.js.map",
+    "index.html": "/MIMER17/music-player.git/index.html",
+    "static/css/main.d2759aec.chunk.css.map": "/MIMER17/music-player.git/static/css/main.d2759aec.chunk.css.map",
+    "static/js/2.08a329a7.chunk.js.LICENSE.txt": "/MIMER17/music-player.git/static/js/2.08a329a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.363c880f.js",
+    "static/js/2.08a329a7.chunk.js",
+    "static/css/main.d2759aec.chunk.css",
+    "static/js/main.4ab3208a.chunk.js"
+  ]
+}
